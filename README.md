@@ -1,1 +1,2 @@
-# Excel-Project
+# Excel-Data Cleaning & Analysis in Excel
+In this Excel bike sales project, I cleaned and prepared the data by removing duplicates and formatting inconsistencies, then analyzed purchase trends vs average income, age brackets and commute distance. I built interactive dashboards to visualize key metrics such as education level, marital status, region and number of children allowing for dynamic filtering and insights into sales performance.
